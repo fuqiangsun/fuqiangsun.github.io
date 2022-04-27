@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D candidate in Mechanical Engineering, The University of Hong Kong (HKU)
+* M.S. in Solid Mechanics, Chinese Academy of Sciences (CAS), 2020
+* B.E. in Engineering Mechanics, Harbin Institute of Technology (HIT), 2017
 
-Work experience
+Awards
+======
+* National Scholarship (top 1%), by Ministry of Education, PRC, 2019
+* Outstanding Graduate (top 5%), by HIT, 2017
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
