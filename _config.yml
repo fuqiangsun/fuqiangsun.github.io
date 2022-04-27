@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Fuqiang SUN"
 title_separator          : "-"
-name                     : &Fuqiang (Frank) SUN
-description              : &description "Ph.D. Candidate, Department of Mechanical Engineering, The University of Hong Kong"
+name                     : Fuqiang (Frank) SUN
+description              : Ph.D. Candidate, Department of Mechanical Engineering, The University of Hong Kong
 url                      : https://fuqiangsun.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
