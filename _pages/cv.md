@@ -15,7 +15,7 @@ Education
 * M.S. in Solid Mechanics, Chinese Academy of Sciences (CAS), 2020
 * B.E. in Engineering Mechanics, Harbin Institute of Technology (HIT), 2017
 
-Awards
+Selected Awards
 ======
 * National Scholarship (top 1%), by Ministry of Education, PRC, 2019
 * Outstanding Graduate (top 5%), by HIT, 2017
