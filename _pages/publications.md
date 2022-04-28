@@ -20,4 +20,4 @@ author_profile: true
 1. **Sun, F.Q.**; Du, S.H.; Zhao, Y.P. 2022. Fluctuation of fracturing curves indicates in-situ brittleness and reservoir fracturing characteristics in unconventional energy exploitation. *Energy*. 252, p.124043.
 2. **Sun, F.Q.**; Zhao, Y.P. 2020. Geomaterials Evaluation: A New Application of Ashby Plots. *Materials*. 13, p.2517.
 3. **Sun, F.Q.**; Shen, W.H.; Zhao, Y.P. 2019. Deflected trajectory of a single fluid-driven crack under anisotropic in-situ stress. *Extreme Mechanics Letters*. 29, p.100483.
-4. Tang, B.X.; **Sun, F.Q.**; Wei, X.; Xu, G.K.; Lin, Y. 2022. Defect size and cross-linker properties controlled fracture of biopolymer networks. *Extreme Mechanics Letters*. p.101743.
+4. Tang, B.X.; **Sun, F.Q.**; Wei, X.; Xu, G.K.; Lin, Y. 2022. Defect size and cross-linker properties controlled fracture of biopolymer networks. *Extreme Mechanics Letters*. 54, p.101743.
