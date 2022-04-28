@@ -1,7 +1,7 @@
 ---
 permalink: /Service/
 title: ""
-excerpt: "Service"
+excerpt: "service"
 author_profile: true
 redirect_from: 
   - "/nmp/"
