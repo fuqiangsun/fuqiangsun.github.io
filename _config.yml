@@ -11,9 +11,9 @@ title                    : "Fuqiang SUN"
 title_separator          : "-"
 name                     : &name "Fuqiang (Frank) SUN"
 description              : &description "Ph.D. Candidate, Department of Mechanical Engineering, The University of Hong Kong"
-url                      : https://fuqiangsun.github.io
+url                      : https://franksun.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fuqiangsun.github.io"
+repository               : "franksun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
