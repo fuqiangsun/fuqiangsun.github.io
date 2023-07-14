@@ -21,4 +21,5 @@ author_profile: true
 2. **Sun, F.Q.**; Zhao, Y.P. 2020. Geomaterials Evaluation: A New Application of Ashby Plots. *Materials*. 13, p.2517.
 3. **Sun, F.Q.**; Shen, W.H.; Zhao, Y.P. 2019. Deflected trajectory of a single fluid-driven crack under anisotropic in-situ stress. *Extreme Mechanics Letters*. 29, p.100483.
 4. Du, S.H.; Zhao, Y.P.; **Sun, F.Q.**; Shi, Y.M. 2023. Estimations of the upper and lower depth limits for kerogen to generate oil/gas worldwide: A hypothesis. *International Journal of Hydrogen Energy*. 48, 12661-12671.
-5. Tang, B.X.; **Sun, F.Q.**; Wei, X.; Xu, G.K.; Lin, Y. 2022. Defect size and cross-linker properties controlled fracture of biopolymer networks. *Extreme Mechanics Letters*. 54, p.101743.
+5. Du, S.H.; Jin, J.; Shi, Y.M.; **Sun, F.Q.** 2023. Complex flow in tight oil reservoirs: A new perspective. *Marine and Petroleum Geology*. 150, p.106095.
+6. Tang, B.X.; **Sun, F.Q.**; Wei, X.; Xu, G.K.; Lin, Y. 2022. Defect size and cross-linker properties controlled fracture of biopolymer networks. *Extreme Mechanics Letters*. 54, p.101743.
