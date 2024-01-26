@@ -10,8 +10,9 @@ redirect_from:
 
 Journal Reviewer
 ======
-1. Scitific Reports
-2. Science China - Physics Mechanics & Astronomy
+1. Science China - Physics Mechanics & Astronomy
+2. Scientific Reports
+3. Applied Mathematics and Mechanics
 
 <!--Heading 2
 ====== -->
